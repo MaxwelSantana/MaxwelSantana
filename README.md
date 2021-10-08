@@ -41,10 +41,12 @@ Here are some ideas to get you started:
 
 ![Maxwel's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxwelsantana&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxwelsantana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxwelsantana&show_icons=true&theme=radical" width="100" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxwelsantana&layout=compact)](https://github.com/anuraghazra/github-readme-stats" width="100" /> 
-</p>
+<div>
+  <a href="https://github.com/juliozittei">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxwelsantana&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxwelsantana&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</div>
 
 - Thanks for visiting.
 
