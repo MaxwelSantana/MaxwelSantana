@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxwel-santana-27ab024b/)](https://www.linkedin.com/in/maxwel-santana-27ab024b/)
 
-<code><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-
 ----------------------------------------------------------------------------------
 
 <div>
@@ -45,6 +43,11 @@ Here are some ideas to get you started:
   <img alt="Top Langs" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxwelsantana&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
+
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+
 
 - Thanks for visiting.
 
