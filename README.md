@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there <img width="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" />
+### Hi there <img width="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" />
 
-## I'm Maxwel!
+# I'm Maxwel!
 
 💻 I'm Front-End Developer!
 🏡 I’m from Brazil.
