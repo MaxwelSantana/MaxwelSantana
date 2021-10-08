@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
- 
 
 ## About me
 
@@ -37,6 +36,10 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxwel-santana-27ab024b/)](https://www.linkedin.com/in/maxwel-santana-27ab024b/)
 
 <code><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+
+----------------------------------------------------------------------------------
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 - Thanks for visiting.
 
