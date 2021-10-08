@@ -24,6 +24,14 @@ Here are some ideas to get you started:
 
 ## About me
 
+<div>
+<a href="https://github.com/MaxwelSantana" target="_blank">
+     <img alt="Github Badge" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MaxwelSantana"/>
+  </a>
+  <a href="https://www.linkedin.com/in/maxwel-santana-27ab024b/" target="_blank">
+     <img alt="Linkedin Badge" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxwel-santana-27ab024b"/>
+  </a>
+</div>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MaxwelSantana)](https://github.com/MaxwelSantana)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxwel-santana-27ab024b/)](https://www.linkedin.com/in/maxwel-santana-27ab024b/)
