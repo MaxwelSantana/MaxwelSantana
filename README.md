@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 # I'm Maxwel!
 
-💻 I'm Front-End Developer!
-🏡 I’m from Brazil.
-🌱 I’m currently learning about reactjs, HTML, CSS and front-end stuff.
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+- 💻 I'm Front-End Developer!
+- 🏡 I’m from Brazil.
+- 🌱 I’m currently learning about reactjs, HTML, CSS and front-end stuff.
+- :outbox_tray: 2021 Goals: create a new project and find a new job.
 
 
 ## About me
