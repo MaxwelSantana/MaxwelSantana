@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - :outbox_tray: 2021 Goals: create a new project and find a new job.
 
 
-## About me
+## Find me
 
 <div>
   <a href="https://github.com/MaxwelSantana" target="_blank">
